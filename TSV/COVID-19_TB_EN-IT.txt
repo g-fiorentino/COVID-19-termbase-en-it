@@ -1,0 +1,165 @@
+﻿antibiotics	antibiotici	
+blood	sangue	
+burden	peso	sin_IT: carico.
+chest	torace	
+cleaning	pulizia	
+clinical	clinico	
+complications	complicanze	
+CT	TC	
+delirium	delirio	
+discharge	dimissione	
+duration	durata	
+effective	efficace	
+effects	effetti	
+epidemic	epidemia	
+epidemiological	epidemiologico	
+evaluation	valutazione	
+healthcare	sanità	
+hospital	ospedale	
+imaging	imaging	
+interventions	interventi	
+isolation	isolamento	
+kidneys	reni	
+lobes	lobi	
+mortality	mortalità	
+NIV	NIV	
+nutrition	nutrizione	
+oral	orale	
+oxygenation	ossigenazione	
+pressure	pressione	
+psychological	psicologico	
+recommended	raccomandato	
+recruitment	reclutamento	
+regimen	regime	
+risk	rischio	
+screening	screening	
+sedation	sedazione	
+testing	test	
+tidal volume	volume corrente	
+to cause	causare	
+to prevent	prevenire	
+to report	riportare	
+to require	necessitare	
+to treat	trattare	
+triage	triage	
+visits	visite	
+ward	reparto	
+adaptive immunity	immunità adattativa	
+airborne transmission	contagio per via aerea	
+antibody treatments	trattamenti anticorpali	
+asymptomatic transmission	trasmissione asintomatica	sin_EN: asymptomatic spread.
+BNT162b1	BNT162b1	
+CD4+ T cells	linfociti CD4+	sin_EN: helper T cells.
+CD8+ T cells	linfociti CD8+	
+cell-mediated immune response	immunità di tipo cellulare	
+Centers for Disease Control and Prevention	Centri per il controllo e la prevenzione delle malattie	
+clinical outcomes	esiti di salute	
+coronavirus antibodies	anticorpi anti-COVID19	
+COVID-19 outbreak	focolaio di COVID-19	
+critically ill patients	pazienti con malattia severa	
+deaths	morti	sin_EN: COVID-19 deaths; sin_IT: morti per Covid-19.
+health care facilities	strutture sanitarie	
+health system	sistema sanitario	
+health workers	operatori sanitari	sin_EN: health care providers; sin_IT: personale sanitario.
+host cells	cellule ospiti	sin_EN: human cells; sin_IT: cellule umane.
+immune cells	cellule immunocompetenti	
+infected	contagiato	sin_IT: infetto.
+infected cells	cellule infette	
+infectious disease expert	esperto di malattie infettive	
+infectious disease physician	infettivologo	
+infectious disease specialist	specialista di malattie infettive	
+lateral flow tests	test a flusso laterale	
+memory B cells	cellule B della memoria	sin_IT: linfociti B memoria.
+memory T cells	cellule T della memoria	sin_IT: linfociti T memoria.
+National Institute of Allergy and Infectious Diseases	National Institute of Allergy and Infectious Diseases	
+National Institutes of Health	NIH	
+new cases	nuovi casi	
+Oxford/Astrazeneca vaccine	vaccino Oxford-AstraZeneca	sin_IT: vaccino AstraZeneca.
+oxygen	ossigeno	sin_EN: supplemental oxygen.
+oxygen saturation	saturazione di ossigeno	
+oxygen therapy	ossigenoterapia	
+patients	pazienti	
+public health authorities	autorità sanitarie	
+public health officials	funzionari della sanità pubblica	
+respiratory failure	insufficienza respiratoria	
+respiratory illness	malattia respiratoria	sin_EN: respiratory infections; sin_IT: infezioni respiratorie.
+respiratory tract specimens	campioni respiratori	sin_IT: campioni delle vie aeree.
+respiratory viruses	virus respiratori	
+results	risultati	
+RNA-dependent RNA polymerase	RNA polimerasi RNA-dipendente	
+sarilumab	sarilumab	
+second dose	seconda dose	
+severely ill patients	pazienti con malattia severa	
+study	studio	
+test result	esito del test	
+transmission	trasmissione	sin_EN: spread; sin_IT: diffusione.
+vaccine development	sviluppo dei vaccini	
+vaccine trials	studi sul vaccino	
+viral	virale	
+viral clearance	eliminazione del virus	
+viral entry	ingresso del virus	
+viral infections	infezioni virali	
+viral replication	replicazione virale	
+viral RNA	RNA virale	
+virus	virus	
+World Health Organization	Organizzazione mondiale della Sanità	
+monoclonal antibodies	anticorpi monoclonali	
+antibodies	anticorpi	
+immune system	sistema immunitario	
+T cells	cellule T	
+neutralizing antibodies	anticorpi neutralizzanti	
+coronavirus	coronavirus	sin_EN: novel coronavirus; sin_IT: nuovo coronavirus.
+COVID-19	COVID-19	sin_EN: Covid; sin_IT: Covid.
+SARS	Sars	sin_EN: severe acute respiratory syndrome; sin_IT: sindrome respiratoria acuta grave.
+MERS	MERS	sin_EN: Middle East Respiratory Syndrome; sin_IT: sindrome respiratoria mediorientale.
+immune response	risposta immunitaria	
+antigen test	test antigenico	
+respiratory droplets	goccioline	sin_IT: droplet.
+corticosteroids	corticosteroidi	
+depression	depressione	
+long Covid	Long Covid	
+incidence	incidenza	
+mask	mascherina	
+pneumonia	polmonite	sin_EN: COVID-19 pneumonia; sin_IT: polmonite da COVID-19.
+hydroxychloroquine	idrossiclorochina	
+Remdesivir	Remdesivir	
+asymptomatic infection	infezione asintomatica	
+onset of symptoms	insorgenza dei sintomi	
+contact	contatto	
+pandemic	pandemia	sin_EN: COVID-19 pandemic; sin_IT: pandemia da COVID-19.
+excess deaths	eccesso di mortalità	
+confirmed cases	casi confermati	
+PCR tests	test PCR	sin_IT: tamponi.
+symptoms	sintomi	
+viral load	carica virale	
+treatment	cura	sin_EN: COVID-19 treatment.
+hospitalized patients	pazienti ricoverati	sin_EN: COVID-19 patients; sin_IT: pazienti Covid.
+vaccine	vaccino	sin_EN: COVID-19 vaccine; sin_IT: vaccino anti-Covid.
+BNT162b2	BNT162b2	
+mRNA	mRNA	
+mRNA vaccines	vaccini a RNA	
+Pfizer-BioNTech vaccine	vaccino Pfizer-BioNTech	
+vaccination	vaccinazione	
+antibody responses	risposte anticorpali	
+doses	dosi	sin_EN: vaccine doses; sin_IT: dosi di vaccino.
+vaccine candidates	candidati vaccini	
+first dose	prima dose	
+placebo	placebo	
+placebo group	gruppo placebo	
+tocilizumab	Tocilizumab	
+randomized trial	studio randomizzato	
+observational study	studio osservazionale	
+diagnosis	diagnosi	
+acute respiratory distress syndrome	sindrome da distress respiratorio acuto	
+molecular test	test molecolare	
+tests	test	
+severe COVID-19	forma grave di Covid-19	sin_EN: severe COVID-19 disease; sin_IT: malattia severa.
+infection	infezione	sin_EN: SARS-CoV-2 infection; sin_IT: infezione da SARS-CoV-2.
+airways	vie aeree	
+drugs	farmaci	
+exposure	esposizione	
+infectious	contagioso	
+RNA viruses	virus a RNA	
+lung	polmone	
+cases	casi	sin_EN: COVID-19 cases; sin_IT: casi di Covid-19.
+clinical trials	studi clinici	
