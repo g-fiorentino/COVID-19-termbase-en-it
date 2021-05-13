@@ -35,7 +35,7 @@ I due corpora comparabili in inglese e italiano sono composti da quattro sub-cor
 |Il Fatto Quotidiano | 3618 | 17922 | 10|
 |La Repubblica | 3012 | 11134 | 10|
 |Il Messaggero | 1207 | 3456 | 10|
-|Totale | 7271 | 50561 | 50|
+|**Totale** | 7271 | 50561 | 50|
 
 |Sub-corpus quotidiani di lingua inglese | Type | Token | Testi |
 | ------------- | ------------- | ------------- | ------------- 
@@ -44,7 +44,7 @@ I due corpora comparabili in inglese e italiano sono composti da quattro sub-cor
 |The Guardian | 1873 | 8380 | 10 |
 |The Independent | 1790 | 7659 | 10 |
 |USA Today | 2163 | 8779 | 10 |
-|Totale | 5698 | 50242 | 50 |
+|**Totale** | 5698 | 50242 | 50 |
 
 Gli articoli dei sub-corpora scientifici sono stati individuati attraverso motori di ricerca di letteratura biomedica (*PubMed*) e accademica in generale (*Google Scholar*), limitando le query ai risultati in lingua italiana o inglese e utilizzando la keyword “*covid-19*”. Gli articoli scientifici selezionati includono studi sull’interazione tra COVID-19 e altre patologie (ad esempio, studi su diabete mellito e COVID-19 o salute mentale e COVID-19), brevi compendi di letteratura scientifica, ricerche sui possibili risvolti cardiovascolari della malattia e analisi sul calcolo statistico degli indici Rt o R0. Il sub-corpus di articoli scientifici di lingua italiana comprende **11** articoli e **34.053** parole, il corrispettivo in lingua inglese conta **8** articoli e **34.992** parole. Il computo dei type, delle parole totali e del numero di testi dei due corpora è riportato nella seguente tabella.
 
@@ -52,7 +52,7 @@ Gli articoli dei sub-corpora scientifici sono stati individuati attraverso motor
 | ------------- | ------------- | ------------- | ------------- 
 |Italiano | 4813 | 34053 | 11 |
 |English | 4388 | 34992 | 8 |
-|Totale | 9.201 | 69045 | 19 |
+|**Totale** | 9.201 | 69045 | 19 |
 
 In totale, i corpora comparabili utilizzati per la validazione e l’estrazione terminologica manuale contano **84.614** e **85.234** parole. La seguente tabella fornisce una panoramica finale della loro composizione. La cartella /corpora contiene un file XML con i riferimenti puntuali di ciascuno dei testi utilizzati all'interno del progetto.
 
