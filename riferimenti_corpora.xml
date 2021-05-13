@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <text><ID>1_cronaca_LaStampa</ID><URL>https://bit.ly/3q5pcFg</URL><source>La Stampa</source></text>
+    <text><ID>2_primopiano_Lastampa</ID><URL>http://bit.ly/2NFPNMe</URL><source>La Stampa</source></text>
+    <text><ID>3_primopiano_Lastampa</ID><URL>https://bit.ly/3q1q2mG</URL><source>La Stampa</source></text>
+    <text><ID>4_primopiano_Lastampa</ID><URL>https://bit.ly/37Vk5kM</URL><source>La Stampa</source></text>
+    <text><ID>5_cronaca_LaStampa</ID><URL>http://bit.ly/3kz65CC</URL><source>La Stampa</source></text>
+    <text><ID>6_cronaca_LaStampa</ID><URL>http://bit.ly/3dV3G3x</URL><source>La Stampa</source></text>
+    <text><ID>7_cuneo_LaStampa</ID><URL>http://bit.ly/2MvWr6Y</URL><source>La Stampa</source></text>
+    <text><ID>8_esteri_LaStampa</ID><URL>https://bit.ly/3ktkTTc</URL><source>La Stampa</source></text>
+    <text><ID>9_politica_LaStampa</ID><URL>https://bit.ly/2O9bKmI</URL><source>La Stampa</source></text>
+    <text><ID>10_torino_LaStampa</ID><URL>https://bit.ly/3dUyNfC</URL><source>La Stampa</source></text>
+    <text><ID>1_salute_Messaggero - Covid</ID><URL>http://bit.ly/2ZZxpQY</URL><source>Il Messaggero</source></text>
+    <text><ID>2_salute_Messaggero - Covid</ID><URL>http://bit.ly/37UGtuI</URL><source>Il Messaggero</source></text>
+    <text><ID>3_salute_Messaggero - Covid</ID><URL>http://bit.ly/2ZUJAhU</URL><source>Il Messaggero</source></text>
+    <text><ID>4_saluteMessaggero - Covid</ID><URL>http://bit.ly/3szgmkL</URL><source>Il Messaggero</source></text>
+    <text><ID>5_salute_Messaggero - Covid</ID><URL>http://bit.ly/3kwwNvF</URL><source>Il Messaggero</source></text>
+    <text><ID>6_salute_Messaggero - Covid</ID><URL>http://bit.ly/37Xp9oK</URL><source>Il Messaggero</source></text>
+    <text><ID>7_salute_Messaggero - Covid</ID><URL>http://bit.ly/2NLDyh2</URL><source>Il Messaggero</source></text>
+    <text><ID>8_salute_Messaggero - Covid</ID><URL>http://bit.ly/3kwnJqj</URL><source>Il Messaggero</source></text>
+    <text><ID>9_roma_Messaggero - Covid</ID><URL>http://bit.ly/300RJBr</URL><source>Il Messaggero</source></text>
+    <text><ID>10_frosinone_Messaggero - Covid</ID><URL>http://bit.ly/3uNrz3p</URL><source>Il Messaggero</source></text>
+    <text><ID>1_salute_Corriere della sera - Covid</ID><URL>http://bit.ly/3bLko2S</URL><source>Corriere della Sera</source></text>
+    <text><ID>2_salute_Corriere della sera - Covid</ID><URL>http://bit.ly/2ZYB5T6</URL><source>Corriere della Sera</source></text>
+    <text><ID>3_salute_Corriere della sera - Covid</ID><URL>http://bit.ly/3uNrGfl</URL><source>Corriere della Sera</source></text>
+    <text><ID>4_salute_Corriere della sera - Covid</ID><URL>http://bit.ly/3ksyREQ</URL><source>Corriere della Sera</source></text>
+    <text><ID>5_cronache_Corriere della sera - Covid</ID><URL>http://bit.ly/3kxAYaA</URL><source>Corriere della Sera</source></text>
+    <text><ID>6_esteri_Corriere della sera - Covid</ID><URL>http://bit.ly/3qXdy0x</URL><source>Corriere della Sera</source></text>
+    <text><ID>7_cronache_Corriere della sera - Covid</ID><URL>http://bit.ly/2Mw3Tir</URL><source>Corriere della Sera</source></text>
+    <text><ID>8_cronache_Corriere della sera - Covid</ID><URL>http://bit.ly/3dUlaxe</URL><source>Corriere della Sera</source></text>
+    <text><ID>9_cronache_Corriere della sera - Covid</ID><URL>http://bit.ly/37XIdU6</URL><source>Corriere della Sera</source></text>
+    <text><ID>10_cronache_Corriere della sera - Covid</ID><URL>http://bit.ly/3kxJIx3</URL><source>Corriere della Sera</source></text>
+    <text><ID>1_mondo_Fattoquotidiano</ID><URL>http://bit.ly/2P94Wpt</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>2_economia_Fattoquotidiano</ID><URL>http://bit.ly/3b14uC6</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>3_scienza_Fattoquotidiano</ID><URL>http://bit.ly/3kxsL67</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>4_scienza_Fattoquotidiano</ID><URL>http://bit.ly/3sujPRy</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>5_cronaca_Fattoquotidiano</ID><URL>http://bit.ly/3r7q5i0</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>6_cronaca_Fattoquotidiano</ID><URL>http://bit.ly/3sG6VjP</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>7_cronaca_Fattoquotidiano</ID><URL>http://bit.ly/3e1PQMO</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>8_mondo_Fattoquotidiano</ID><URL>http://bit.ly/3b1BAlC</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>9_mondo_Fattoquotidiano</ID><URL>http://bit.ly/3rfxRGR</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>10_mondo_Fattoquotidiano</ID><URL>http://bit.ly/3dVyHEG</URL><source>Il Fatto Quotidiano</source></text>
+    <text><ID>1_salute_LaRepubblica</ID><URL>http://bit.ly/37UUnx3</URL><source>La Repubblica</source></text>
+    <text><ID>2_salute_LaRepubblica</ID><URL>http://bit.ly/37UH5Al</URL><source>La Repubblica</source></text>
+    <text><ID>3_salute_LaRepubblica</ID><URL>http://bit.ly/3003lo4</URL><source>La Repubblica</source></text>
+    <text><ID>4_salute_LaRepubblica</ID><URL>http://bit.ly/3uBSAqe</URL><source>La Repubblica</source></text>
+    <text><ID>5_salute_LaRepubblica</ID><URL>http://bit.ly/3q4kx6B</URL><source>La Repubblica</source></text>
+    <text><ID>6_salute_LaRepubblica</ID><URL>http://bit.ly/37Wb76P</URL><source>La Repubblica</source></text>
+    <text><ID>7_salute_alimentazionefitness_LaRepubblica</ID><URL>http://bit.ly/3kDBT9q</URL><source>La Repubblica</source></text>
+    <text><ID>8_salute_alimentazionefitness_LaRepubblica</ID><URL>http://bit.ly/3q6cypA</URL><source>La Repubblica</source></text>
+    <text><ID>9_salute_LaRepubblica</ID><URL>http://bit.ly/3rf7Bfm</URL><source>La Repubblica</source></text>
+    <text><ID>10_salute_LaRepubblica</ID><URL>https://bit.ly/3dSWCoc</URL><source>La Repubblica</source></text>
+    <text><ID>1_health_NYT</ID><URL>https://nyti.ms/2OcyHFl</URL><source>The New York Times</source></text>
+    <text><ID>2_us_NYT</ID><URL>https://nyti.ms/2Od1qKw</URL><source>The New York Times</source></text>
+    <text><ID>3_health_NYT</ID><URL>https://nyti.ms/3bEKeW0</URL><source>The New York Times</source></text>
+    <text><ID>4_health_NYT</ID><URL>https://nyti.ms/3bQ6zA4</URL><source>The New York Times</source></text>
+    <text><ID>5_health_NYT</ID><URL>https://nyti.ms/3b3hk2I</URL><source>The New York Times</source></text>
+    <text><ID>6_health_NYT</ID><URL>https://nyti.ms/3017FU0</URL><source>The New York Times</source></text>
+    <text><ID>7_health_NYT</ID><URL>https://nyti.ms/2NEO7Te</URL><source>The New York Times</source></text>
+    <text><ID>8_health_NYT</ID><URL>https://nyti.ms/2NKf3kc</URL><source>The New York Times</source></text>
+    <text><ID>9_health_NYT</ID><URL>https://nyti.ms/3bJFLBD</URL><source>The New York Times</source></text>
+    <text><ID>10_us_NYT</ID><URL>https://nyti.ms/2PnCosJ</URL><source>The New York Times</source></text>
+    <text><ID>1_health_TWP</ID><URL>https://wapo.st/3q1nuF8</URL><source>The Washington Post</source></text>
+    <text><ID>2_health_TWP</ID><URL>https://wapo.st/3szB18y</URL><source>The Washington Post</source></text>
+    <text><ID>3_health_TWP</ID><URL>https://wapo.st/3kwTOyq</URL><source>The Washington Post</source></text>
+    <text><ID>4_health_TWP</ID><URL>https://wapo.st/3r2Z4fG</URL><source>The Washington Post</source></text>
+    <text><ID>5_health_TWP</ID><URL>https://wapo.st/3dTrR2D</URL><source>The Washington Post</source></text>
+    <text><ID>6_health_TWP</ID><URL>https://wapo.st/3bHxgHc</URL><source>The Washington Post</source></text>
+    <text><ID>7_science_TWP</ID><URL>https://wapo.st/3dVmgsC</URL><source>The Washington Post</source></text>
+    <text><ID>8_local_TWP</ID><URL>https://wapo.st/3aZbSxU</URL><source>The Washington Post</source></text>
+    <text><ID>9_health_TWP</ID><URL>https://wapo.st/3ku9Ed4</URL><source>The Washington Post</source></text>
+    <text><ID>10_health_TWP</ID><URL>https://wapo.st/37VhrLZ</URL><source>The Washington Post</source></text>
+    <text><ID>1_health_USA</ID><URL>https://bit.ly/3uFi6uU</URL><source>USA Today</source></text>
+    <text><ID>2_health_USA</ID><URL>https://bit.ly/3aZ8yTC</URL><source>USA Today</source></text>
+    <text><ID>3_health_USA</ID><URL>https://bit.ly/3sxCige</URL><source>USA Today</source></text>
+    <text><ID>4_tech_USA</ID><URL>https://bit.ly/3bKyQbs</URL><source>USA Today</source></text>
+    <text><ID>5_health_USA</ID><URL>https://bit.ly/2ZUReJ2</URL><source>USA Today</source></text>
+    <text><ID>6_health_USA</ID><URL>https://bit.ly/2NMScof</URL><source>USA Today</source></text>
+    <text><ID>7_indepth_USA</ID><URL>https://bit.ly/37XgHWN</URL><source>USA Today</source></text>
+    <text><ID>8_health_USA</ID><URL>https://bit.ly/3q3z16P</URL><source>USA Today</source></text>
+    <text><ID>9_factcheck_USA</ID><URL>https://bit.ly/3bODh4L</URL><source>USA Today</source></text>
+    <text><ID>10_travel_USA</ID><URL>https://bit.ly/3bJFRsZ</URL><source>USA Today</source></text>
+    <text><ID>1_world_TheGuardian</ID><URL>https://bit.ly/3kvuGIk</URL><source>The Guardian</source></text>
+    <text><ID>2_world_TheGuardian</ID><URL>https://bit.ly/3aZkwwk</URL><source>The Guardian</source></text>
+    <text><ID>3_world_TheGuardian</ID><URL>https://bit.ly/3pZG9AT</URL><source>The Guardian</source></text>
+    <text><ID>4_world_TheGuardian</ID><URL>https://bit.ly/2O66yQn</URL><source>The Guardian</source></text>
+    <text><ID>5_world_TheGuardian</ID><URL>https://bit.ly/2O998oC</URL><source>The Guardian</source></text>
+    <text><ID>6_world_TheGuardian</ID><URL>https://bit.ly/3sAxeYm</URL><source>The Guardian</source></text>
+    <text><ID>7_comment_TheGuardian</ID><URL>https://bit.ly/37Tab38</URL><source>The Guardian</source></text>
+    <text><ID>8_society_TheGuardian</ID><URL>https://bit.ly/2ZVz4Hd</URL><source>The Guardian</source></text>
+    <text><ID>9_world_TheGuardian</ID><URL>https://bit.ly/3uHGmw6</URL><source>The Guardian</source></text>
+    <text><ID>10_science_TheGuardian</ID><URL>https://bit.ly/3r6p2Pl</URL><source>The Guardian</source></text>
+    <text><ID>1_news_TheIndependent</ID><URL>https://bit.ly/2NP4Zqj</URL><source>The Independent</source></text>
+    <text><ID>2_lifestyle_TheIndependent</ID><URL>https://bit.ly/3sASihq</URL><source>The Independent</source></text>
+    <text><ID>3_news_TheIndependent</ID><URL>https://bit.ly/3kv0f53</URL><source>The Independent</source></text>
+    <text><ID>4_news_TheIndependent</ID><URL>https://bit.ly/3b1QQPb</URL><source>The Independent</source></text>
+    <text><ID>5_news_TheIndependent</ID><URL>https://bit.ly/300gwp3</URL><source>The Independent</source></text>
+    <text><ID>6_news_TheIndependent</ID><URL>https://bit.ly/3dUpRa8</URL><source>The Independent</source></text>
+    <text><ID>7_news_TheIndependent</ID><URL>https://bit.ly/3kxqnMH</URL><source>The Independent</source></text>
+    <text><ID>8_news_TheIndependent</ID><URL>https://bit.ly/3sESHj7</URL><source>The Independent</source></text>
+    <text><ID>9_lifestyle_TheIndependent</ID><URL>https://bit.ly/2NEOIUY</URL><source>The Independent</source></text>
+    <text><ID>10_news_TheIndependent</ID><URL>https://bit.ly/3sMROoP</URL><source>The Independent</source></text>
+    <text><ID>1_giornaleitalianocardiologia</ID><URL>https://bit.ly/3uEebOP</URL><source>Giornale italiano di cardiologia</source></text>
+    <text><ID>2_giornaleitalianocardiologia</ID><URL>https://bit.ly/38clx2D</URL><source>Giornale italiano di cardiologia</source></text>
+    <text><ID>3_epidemiologiaprevenzione</ID><URL>https://bit.ly/2ZVzCwv</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>4_assoepidemiologia</ID><URL>https://bit.ly/3bK0164</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>5_assoepidemiologia</ID><URL>https://bit.ly/3ktBeY5</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>6_epidemiologiaprevenzione</ID><URL>https://bit.ly/2MvOJK4</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>7_epidemiologiaprevenzione</ID><URL>https://bit.ly/3szBg3f</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>8_epidemiologiaprevenzione</ID><URL>https://bit.ly/2ZZUGly</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>9_epidemiologiaprevenzione</ID><URL>https://bit.ly/3kwo5gX</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>10_epidemiologiaprevenzione</ID><URL>https://bit.ly/3b3vqBv</URL><source>Epidemiologia &amp; Prevenzione</source></text>
+    <text><ID>11_recentiprogressi</ID><URL>https://bit.ly/37SuxcI</URL><source>Recenti Progressi in Medicina</source></text>
+    <text><ID>1_elsevier</ID><URL>https://bit.ly/3dUsVD6</URL><source>Elsevier Public Health Emergency Collection</source></text>
+    <text><ID>2_elsevier</ID><URL>https://bit.ly/3r1fe9e</URL><source>Elsevier Public Health Emergency Collection</source></text>
+    <text><ID>3_elsevier</ID><URL>https://bit.ly/2PkXGag</URL><source>Elsevier Public Health Emergency Collection</source></text>
+    <text><ID>4_frontiers</ID><URL>https://bit.ly/3uNl1ll</URL><source>Frontiers in Public Health</source></text>
+    <text><ID>5_jclinicalmicrobiology</ID><URL>https://bit.ly/2ZXJ5DD</URL><source>Journal of Clinical Microbiology</source></text>
+    <text><ID>6_nejmgroup</ID><URL>https://bit.ly/3uEYoiH</URL><source>NEJM Group Public Health Emergency Collection</source></text>
+    <text><ID>7_oxforduniversity</ID><URL>https://bit.ly/3dThgEB</URL><source>Oxford University Press Public Health Emergency Collection</source></text>
+    <text><ID>8_elsevier</ID><URL>https://bit.ly/2NP1tfB</URL><source>Elsevier Public Health Emergency Collection</source></text>
+</root>
