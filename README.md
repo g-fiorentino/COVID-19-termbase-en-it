@@ -9,7 +9,7 @@ Il presente database terminologico inglese-italiano sul dominio COVID-19 è stat
 La termbase consta di **195** termini in lingua inglese (cui sono associati **195** equivalenti traduttivi in lingua italiana). Poiché questo lavoro terminologico vuole essere un aiuto concreto per tutti i traduttori che si trovino, in questo momento di difficoltà, ad avere a che fare con testi che ruotano attorno all’argomento COVID-19, è stato ritenuto necessario che la termbase di progetto coprisse, nei limiti delle risorse e dei tempi disponibili, una varietà il più possibile completa e rappresentativa dei campi del sapere e dei tipi testuali toccati dal dominio COVID-19. A questo fine, la termbase include terminologia legata non solo al discorso scientifico e tecnico di ambito medico, ma anche alla comunicazione divulgativa nonché di carattere legislativo ed emergenziale. 
 
 Il database terminologico è stato costruito nell'ambito di un più ampio lavoro di tesi. L'accesso al file di tesi che descrive il progetto può essere concesso previa richiesta. Per citare la termbase all'interno di un lavoro di ricerca, si prega di utilizzare:
-> Fiorentino, Giancarlo. 2021. «Terminologia basata su corpora ed estrazione terminologica automatica: costruzione di una termbase inglese-italiano nel dominio COVID-19». Università degli Studi di Bologna, Bologna.
+> Fiorentino, G. 2021. «Terminologia basata su corpora ed estrazione terminologica automatica: costruzione di una termbase inglese-italiano nel dominio COVID-19». Università degli Studi di Bologna, Bologna.
 
 ### 2. Metodologie di costruzione della termbase e risorse testuali utilizzate
 
